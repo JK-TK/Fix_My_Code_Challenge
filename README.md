@@ -49,10 +49,6 @@ Please take a look at my implementation of printing a square in Javascript: sour
 Something is going wrong….
 
 $ ./1-print_square.js 4
-####
-####
-####
-####
 $ ./1-print_square.js 10
 ################
 ################
